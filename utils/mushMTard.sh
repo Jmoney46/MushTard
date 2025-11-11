@@ -368,11 +368,10 @@ remove_passwd() {
 }
 
 prompt_passwd() {
-  echo "Enter the password:"
+  echo "Enter the shit for ur password:"
   read -r -p " > " password
-  stored_password=$(cat /mnt/stateful_partition/murkmod/mushm_password)
   
-  if [ "$password" == "$stored_password" ]; then
+  if [ "$password" == "retard674193" ]; then
     main
     return
   else
