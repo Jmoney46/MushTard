@@ -4,7 +4,7 @@ Welcome, we are the team behind **Murk Mod Plugins** and the modified version of
 This installer sets up the MurkMod plugin environment and installs our enhanced Mush system.
 
 > [!WARNING]
-> **This will replace your current Mush installation** with the Nonagon-modified version.  
+> **This will replace your current Mush installation** with the Nonagon-modified-Jmoney-modified version.  
 > Back up any important data before continuing.
 
 ---
@@ -14,15 +14,15 @@ This installer sets up the MurkMod plugin environment and installs our enhanced 
 Run the following command as **root** to install the modified Mush
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/NonagonWorkshop/MurkPlugins/main/installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Jmoney46/MushmTard/refs/heads/main/installer.sh)
 ```
 ---
 
 ## Fixes
 
-### Fix for "Can't Install Mushm" (Read-Only File System)
+### Fix for "Can't Install MushMTard" (Read-Only File System)
 
-If you're seeing a "Read-Only" (RO) file system error when trying to install **Mushm** or any other package on Chrome OS, follow the steps below to fix it.
+If you're seeing a "Read-Only" (RO) file system error when trying to install **MushmTard** or any other package on Chrome OS, follow the steps below to fix it.
 
 #### Step 1: Remount Root as Read-Write
 
